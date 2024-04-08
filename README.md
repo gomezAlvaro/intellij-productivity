@@ -1,10 +1,6 @@
 #IntelliJ Tips
 # Me
 
-# Hi, DevTernity !
-
-## First day driving ...
-
 ## Exploratory Refactoring
 
 ### Typing
