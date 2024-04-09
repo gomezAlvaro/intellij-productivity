@@ -68,11 +68,3 @@
 ### Next Steps
 - Become a Shortcuts Ninja 🥷: install "Key Promoter X" plugin
 - Practice all the moves yourself (pause-play this)
-  
-- More Inspections: Download my (opinionated) inspections list
-  (search Aggressive_Refactoring.xml on https://victorrentea.ro)
-- In-house workshop your company won't ever forget  
-  mailto:victorrentea@gmail.com
-
-- Join my Community of Software Crafters (>5000 members) 
-  for monthly live webinars and hot🔥 debates
